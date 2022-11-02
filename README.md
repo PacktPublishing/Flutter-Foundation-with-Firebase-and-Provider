@@ -10,7 +10,3 @@ This will update the project folder to open up the files for the particular vide
 
 You can refer video 1.2 for the same.</p>
 
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781804611449">https://packt.link/free-ebook/9781804611449 </a> </p>
